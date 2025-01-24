@@ -1,4 +1,4 @@
-package Backtrack.src.main.java.com.leetcode46;
+package Backtracking.src.main.java.com.leetcode46;
 
 import java.util.ArrayList;
 import java.util.List;
