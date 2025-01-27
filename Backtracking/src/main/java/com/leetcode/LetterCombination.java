@@ -1,4 +1,4 @@
-package Backtracking.src.main.java.com.leetcode46;
+package Backtracking.src.main.java.com.leetcode;
 
 //LeetCode 17. Letter Combinations of a Phone Number
 

@@ -1,4 +1,4 @@
-package Backtracking.src.main.java.com.leetcode46;
+package Backtracking.src.main.java.com.leetcode;
 
 //https://leetcode.com/problems/all-paths-from-source-to-target/description/
 //RunTime: (O)n*2^n
